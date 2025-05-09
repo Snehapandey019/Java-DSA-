@@ -11,6 +11,6 @@ class countoccurrence2 {
             }
         }
 
-        System.out.println("Element " + countelement + " occurs " + count + " times.");
+        System.out.println("Element " + countelement + " occurs " + count + " times");
     }
 }
